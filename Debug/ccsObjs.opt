@@ -1,0 +1,1 @@
+"./CNC_ctrlv1_timers.obj" "./Motion.obj" "./startup_ccs.obj" "./utils/uartstdio.obj" "../timers_ccs.cmd" -l"C:/ti/SW-EK-TM4C1294XL-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" -llibc.a 
